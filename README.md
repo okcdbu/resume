@@ -5,7 +5,7 @@
 ---
 
 ## Summary
-Enthusiastic and skilled computer science student with a focus on software engineering and blockchain technology. Adept at leading development teams and managing complex projects, with hands-on experience in transaction log refinement, multi-cloud platforms, and Android application development. Proven ability to conduct and present research, as evidenced by contributions to academic publications and patents. Eager to apply technical knowledge and innovative solutions to real-world challenges through collaborative team efforts and independent projects.
+Enthusiastic and skilled computer science student with a focus on software engineering and blockchain technology. Adept at leading development teams and managing complex projects. Proven ability to conduct and present research, as evidenced by contributions to academic publications and patents. 
 
 ## Education
 **Bachelor of Science in Computer Science and Engineering**  
@@ -19,8 +19,8 @@ Relevant CourseWork: Software Engineering, Machine Learning, Operating System
 Pusan National University, Software Engineering Laboratory  
 *September 2023 – Present*
 
-- Researching Transaction Log Refinement and Data Processing of Permissioned Blockchain(Hyperledger Fabric).
-- Researching Multi-Cloud platform to eliminate vendor dependencies of cloud platform via Cloud-Barista.
+- Research on Transaction Log Refinement and Data Processing of Permissioned Blockchain(Hyperledger Fabric).
+- Research Multi-Cloud platform to eliminate vendor dependencies of cloud platform via Cloud-Barista.
 
 Korean Institute of Ocean Science and Technology, Marine Domain & Security Research Department  
 *December 2022 - July 2023*
@@ -33,7 +33,6 @@ VSA Project (Startup)
 *2019 – 2020*
 
 - Led the development team to design and implement the software architecture.
-- Developed control logic for the Android application.
 - Managed the connection of the database with the Android application.
 - Managed the connection of Unity program with the Android application.
 
@@ -56,8 +55,8 @@ in Permissioned Blockchain Environment**
 ## Projects
 **Undergraduate Graduation Project**  - in progress  
 - **Development of BaaS(Blockchain as a Service) technology based on multi-cloud platform**
-   - Deploying Hyperledger Fabric components to VM distributed in Multi Cloud Platform
-   - Making API for Hyperledger Fabric query and analyzing transaction in blockchain network
+   - Deploy Hyperledger Fabric components to VM distributed in Multi Cloud Platform
+   - Make Restful API for Hyperledger Fabric query and analyzing transaction in blockchain network
    - Designed software architecture and diagram to describe flow of process as a team leader
    - Advisor: Prof. Keunhyuk Yeom, Sumin Jeong
 
