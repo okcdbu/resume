@@ -10,10 +10,10 @@ Enthusiastic and skilled computer science student with a focus on software engin
 * * *
 **Bachelor of Science in Computer Science and Engineering**  
 - Pusan National University  (March, 2021 - Present)
-Expected Graduation: February, 2025  
-Relevant Coursework: Software Engineering, Machine Learning, Operating System  
+	Expected Graduation: February, 2025  
+	Relevant Coursework: Software Engineering, Machine Learning, Operating System  
 - Dong‑A University (March, 2018 ‑ February, 2021)  
-Relevant Coursework: Web Programming, Linear Algebra, Data Structure
+	Relevant Coursework: Web Programming, Linear Algebra, Data Structure
 
 ## Publications
 * * *
@@ -33,28 +33,29 @@ Relevant Coursework: Web Programming, Linear Algebra, Data Structure
 Pusan National University, Software Engineering Laboratory  
 *September 2023 – Present*
 
-- Research on Transaction Log Refinement and Data Processing of Permissioned Blockchain(Hyperledger Fabric).
-- Research Multi-Cloud platform to eliminate vendor dependencies of cloud platform via Cloud-Barista.
+- Conducted research on Transaction Log Refinement and Data Processing of Permissioned Blockchain(Hyperledger Fabric).
+- Conducted research on Multi-Cloud platform to eliminate vendor dependencies of cloud platform via Cloud-Barista.
 - Advisor: Prof. Keunhyuk Yeom, Joonseok Park, PhD
 
 Korean Institute of Ocean Science and Technology, Marine Domain & Security Research Department  
 *December 2022 - July 2023*
+
 - Detected ships using infrared images provided by satellites.
 - Verified and analyzed data for accuracy and make visualization via Python.  
 - Advisor: Chansu Yang, PhD
 
 **Undergraduate Graduation Project**  - in progress  
 - Development of BaaS(Blockchain as a Service) technology based on multi-cloud platform
-   - Deploy Hyperledger Fabric components to VM distributed in Multi Cloud Platform
-   - Make Restful API for Hyperledger Fabric query and analyzing transaction in blockchain network
-   - Design software architecture and diagram to describe flow of process as a team leader
+   - Deploying Hyperledger Fabric components to VM distributed in Multi Cloud Platform.
+   - Developing RESTful APIs for querying Hyperledger Fabric and analyzing transactions in the blockchain network.
+   - Designing software architecture and creating process flow diagrams as a team leader.
    - Advisor: Prof. Keunhyuk Yeom, Sumin Jeong
 
 
 
 ## Professional Experience
 * * *
-**Lead Engineer**  
+**Android Platform Lead Engineer**  
 VSA Project (Startup)  
 *2019 – 2020*
 
@@ -67,5 +68,5 @@ VSA Project (Startup)
 - **Programming Languages:**  Python, C++, Java(Android Studio), Golang
 - **Tools & Technologies:** Android Studio, Docker, Kubernetes, Cloud Platform Usage(AWS, Azure), Hyperledger Fabric
 - **Research:** Technical Writing, Excel, Presentation Skills
-- **Language:** Korean(Native), English(Conversational)
+- **Language:** Korean(Native), English(Conversational, TOEIC 825)
 
