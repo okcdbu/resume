@@ -19,14 +19,14 @@ Enthusiastic and skilled computer science student with a focus on software engin
 * * *
 1. **Transaction Log Refinement Method of Permissioned Blockchain**  
    participated in 2024 KCSE  
-   D. Kang, S. Jeong, J. Park, K. Yeom, "Transaction Log Refinement Method of Permissioned Blockchain," KCSE 2024, Vol.26, No.1, pp.81-83, 2024.
+   D. Kang, S. Jeong, J. Park, K. Yeom, "Transaction Log Refinement Method of Permissioned Blockchain," 2024 KCSE, Vol.26, No.1, pp.81-83, 2024.
 2. **Patternization Method for Transaction Analysis in Permissioned Blockchain Environment**  
    participated in 2024 KCC  
-   D. Kang, S. Jeong, J. Park, K. Yeom, "Patternization Method for Transaction Analysis in Permissioned Blockchain Environment," KCC 2024, Vol.2, No.2, pp.310-312, 2024.
+   D. Kang, S. Jeong, J. Park, K. Yeom, "Patternization Method for Transaction Analysis in Permissioned Blockchain Environment," 2024 KCC, Vol.2, No.2, pp.310-312, 2024.
 3. **Transaction Tracing Method of Hybrid Blockchain** - in progress
 ## Patents
 * * *
-- **Architecture and Method for Pattern-based Refinement of Permissioned Blockchain Transaction Data** - in progress
+- **Pattern-based Refinement System and Method for Increasing the Usability of Permissioned Blockchain Transaction Data** - in progress
 
 ## Research Experience
 * * *
@@ -67,7 +67,7 @@ VSA Project (Startup)
 ## Skills
 * * *
 - **Programming Languages:**  Python, C++, Java, Golang
-- **Tools & Technologies:** Android Studio, Docker, Kubernetes, Cloud Platform Usage(AWS, Azure), Hyperledger Fabric, Ethereum
+- **Tools & Technologies:** Android Studio, Docker, Kubernetes, Cloud Platform Usage(AWS, Azure, OpenStack), Hyperledger Fabric, Ethereum
 - **Research:** Technical Writing, Presentation Skills
 - **Language:** Korean(Native), English(Conversational, TOEIC 825)
 
