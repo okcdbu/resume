@@ -23,7 +23,12 @@ Enthusiastic and skilled computer science student with a focus on software engin
 2. **Patternization Method for Transaction Analysis in Permissioned Blockchain Environment**  
    participated in 2024 KCC  
    D. Kang, S. Jeong, J. Park, K. Yeom, "Patternization Method for Transaction Analysis in Permissioned Blockchain Environment," 2024 KCC, Vol.2, No.2, pp.310-312, 2024.
-3. **Transaction Tracing Method of Hybrid Blockchain** - in progress
+3. **Architecture to Support Hybrid Blockchain Transaction Traceability** 
+   participated in 2024 ACK
+   D. Kang, S. Jeong, J. Park, K. Yeom, "Architecture to Support Hybrid Blockchain Transaction Traceability," 2024 ACK, Vol.31, No.2, pp.375-376, 2024.
+4. **Multi-Cloud Dashboard System to Increase Usability of Permissioned Blockchain Data** 
+   participated in 2024 UCWIT
+   D. Kang, S. Jeong, J. Park, K. Yeom, "Architecture to Support Hybrid Blockchain Transaction Traceability," 2024 UCWIT, pp.170-173, 2024.
 ## Patents
 * * *
 - **Pattern-based Refinement System and Method for Increasing the Usability of Permissioned Blockchain Transaction Data** - in progress
@@ -45,7 +50,7 @@ Korean Institute of Ocean Science and Technology, Marine Domain & Security Resea
 - Verified and analyzed data for accuracy and make visualization via Python.  
 - Advisor: Chansu Yang, PhD
 
-**Undergraduate Graduation Project**  - in progress  
+**Undergraduate Graduation Project**  
 - Development of BaaS(Blockchain as a Service) technology based on multi-cloud platform
    - Deploying Hyperledger Fabric components to VM distributed in Multi Cloud Platform(AWS, Azure, OpenStack).
    - Developing RESTful APIs for querying Hyperledger Fabric and analyzing transactions in the blockchain network.
